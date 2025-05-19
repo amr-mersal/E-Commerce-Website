@@ -15,13 +15,13 @@ A full-featured E-Commerce platform built using **native PHP**, **HTML**, **CSS*
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **PHP (Native)** – backend logic and server-side processing
 - **MySQL** – database for storing products, users, orders
 - **HTML5 & CSS3** – structure and styling
 - **JavaScript** – interactivity (e.g., quantity changes, cart updates)
-- **Bootstrap ** – for responsive layout and UI components
+- **Bootstrap** – for responsive layout and UI components
 
 ---
 
